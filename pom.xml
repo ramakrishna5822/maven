@@ -5,7 +5,7 @@
 	<groupId>com.mt</groupId>
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	
 	<name>maven-web-application</name>
 
@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>anil Releases Nexus Repository</name>
-	      <url>http://192.168.56.6:8081/repository/anil-release/</url>
+	      <url>http://192.168.56.6:8081/repository/anil-repo/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>anil Snapshot Nexus Repository </name>
-	      <url>http://192.168.56.6:8081/repository/anil-snapshot/</url>
+	      <url>http://192.168.56.6:8081/repository/ram/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
