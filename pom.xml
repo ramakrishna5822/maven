@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>anil Snapshot Nexus Repository </name>
-	      <url>http://192.168.56.6:8081/repository/anil-snapshot/</url>
+	      <url>http://192.168.56.6:8081/repository/ram/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
