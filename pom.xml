@@ -98,7 +98,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>anil Releases Nexus Repository</name>
-	      <url>http://192.168.56.6:8081/repository/anil-repo/</url>
+	      <url>http://192.168.56.15:8081/repository/venkat/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
